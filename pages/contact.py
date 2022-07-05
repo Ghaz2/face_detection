@@ -1,5 +1,4 @@
-import cv2
-import face_recognition
+
 from PIL import Image, ImageDraw
 from pandas import concat
 import requests
