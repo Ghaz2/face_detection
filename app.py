@@ -1,4 +1,4 @@
-import cv2
+
 import face_recognition
 from PIL import Image, ImageDraw
 import requests
